@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Samad Saleem</h1>
 <h3 align="center">A passionate Software Engineer (Full Stack Developer | React | React Native) | Node Js)</h3>
 
+<img>https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2VKhLiuQli-ZLaFtjR5OkZ&ust=1725943738956000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIjG3c6HtYgDFQAAAAAdAAAAABAE </img>
+
 - 🔭 I’m currently working on [Chat App](https://github.com/sskhan1/LiveChatApp)
 
 - 🌱 I’m currently learning **AWS (DevOps)**
